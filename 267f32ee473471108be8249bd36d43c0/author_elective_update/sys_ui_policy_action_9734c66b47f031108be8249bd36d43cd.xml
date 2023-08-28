@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>work_notes</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-27 21:40:54</sys_created_on>
+        <sys_id>9734c66b47f031108be8249bd36d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>work_notes</sys_name>
+        <sys_package display_value="Loanerv2" source="x_938307_loanerv2">267f32ee473471108be8249bd36d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loanerv2">267f32ee473471108be8249bd36d43c0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_9734c66b47f031108be8249bd36d43cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-27 21:40:54</sys_updated_on>
+        <table>x_938307_loanerv2_loaner_request_v2</table>
+        <ui_policy display_value="Hide state closed complete">8d3146a747f031108be8249bd36d430e</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loanerv2">267f32ee473471108be8249bd36d43c0</application>
+        <file_path/>
+        <instance_id>eb9d623cdb09e9940b9d21c4059619e6</instance_id>
+        <instance_name>dev148456</instance_name>
+        <name>sys_ui_policy_action_9734c66b47f031108be8249bd36d43cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>work_notes</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-27 21:40:54</sys_created_on><sys_id>9734c66b47f031108be8249bd36d43cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>work_notes</sys_name><sys_package display_value="Loanerv2" source="x_938307_loanerv2">267f32ee473471108be8249bd36d43c0</sys_package><sys_policy/><sys_scope display_value="Loanerv2">267f32ee473471108be8249bd36d43c0</sys_scope><sys_update_name>sys_ui_policy_action_9734c66b47f031108be8249bd36d43cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-27 21:40:54</sys_updated_on><table>x_938307_loanerv2_loaner_request_v2</table><ui_policy display_value="Hide state closed complete">8d3146a747f031108be8249bd36d430e</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1635345004</payload_hash>
+        <record_name>work_notes</record_name>
+        <reverted_from/>
+        <source>675bc72e477471108be8249bd36d43d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-27 21:40:55</sys_created_on>
+        <sys_id>8b64ca6b47f031108be8249bd36d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a38f156540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-27 21:40:55</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>cf64ca6b9af03110b3f95af4d62770fb</update_guid>
+        <update_guid_history>cf64ca6b9af03110b3f95af4d62770fb:-1635345004</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-27 21:41:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>2fe701338ab445129cee22431694fb39</sys_id>
+        <sys_metadata>9734c66b47f031108be8249bd36d43cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>work_notes</sys_name>
+        <sys_package display_value="Loanerv2" source="x_938307_loanerv2">267f32ee473471108be8249bd36d43c0</sys_package>
+        <sys_parent display_value="Hide state closed complete">8d3146a747f031108be8249bd36d430e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loanerv2">267f32ee473471108be8249bd36d43c0</sys_scope>
+        <sys_scope_delete display_value="">5de33de7076e4aa9a6bf44b16b375689</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_9734c66b47f031108be8249bd36d43cd</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_9734c66b47f031108be8249bd36d43cd">8b64ca6b47f031108be8249bd36d43fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-27 21:41:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>work_notes</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-27 21:44:18</sys_created_on>
+        <sys_id>38d406ab47f031108be8249bd36d430d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>work_notes</sys_name>
+        <sys_package display_value="Loanerv2" source="x_938307_loanerv2">267f32ee473471108be8249bd36d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loanerv2">267f32ee473471108be8249bd36d43c0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_38d406ab47f031108be8249bd36d430d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-27 21:44:18</sys_updated_on>
+        <table>x_938307_loanerv2_loaner_request_v2</table>
+        <ui_policy display_value="Hide state closed complete">8d3146a747f031108be8249bd36d430e</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
