@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description/>
+        <event_name>x_938307_loanerv2.reminder</event_name>
+        <fired_by>Scheduled Script Excution: Loaner Item reminder</fired_by>
+        <queue/>
+        <suffix>reminder</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-30 14:44:17</sys_created_on>
+        <sys_id>fab104a4478d31108be8249bd36d434d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_938307_loanerv2.reminder</sys_name>
+        <sys_package display_value="Loanerv2" source="x_938307_loanerv2">267f32ee473471108be8249bd36d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loanerv2">267f32ee473471108be8249bd36d43c0</sys_scope>
+        <sys_update_name>sysevent_register_fab104a4478d31108be8249bd36d434d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-30 14:44:17</sys_updated_on>
+        <table>x_938307_loanerv2_loaner_request_v2</table>
+    </sysevent_register>
+</record_update>
